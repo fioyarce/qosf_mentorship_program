@@ -9,3 +9,5 @@ __For LinkedIn:__ My name is Felipe Oyarce. Master in Quantum Optics. Machine Le
 __Official description:__ I'm a broccoli, excellent for health but I don't attract people's attention. Sometimes I cry a little.
 
 ## Overview of Task 1 :nerd_face:
+
+![Data pipelines architecture](Task1/images/circuit1.jpg)

@@ -6,8 +6,15 @@ The aim of this repository is to provide some thoughts, ideas and solutions to t
 
 __For LinkedIn:__ My name is Felipe Oyarce. Master in Quantum Optics. Machine Learning Developer and Quantum Computing Enthusiast. Inspired in technological solutions to real-world problems. 
 
-__Official description:__ I'm a broccoli, excellent for health but I don't attract people's attention. Sometimes I cry a little.
+__Official description:__ I'm a Broccoli, excellent for health but I don't attract people's attention. Sometimes I cry a little.
 
 ## Overview of Task 1 :nerd_face:
 
-![Data pipelines architecture](Task1/images/circuit1.jpg)
+### How can we know that two quantum states are close?
+This task inspired me to propose a project that can be end in a blog post about the different metrics out there for measuring the _closeness_ between two quantum states $|\psi\rangle$ and $|\phi\rangle$. 
+
+Since this task is about about finding the optimal parameters of a Quantum Circuit in order to optimize a _distance_ between the output state $|\Psi(\theta)\rangle$ of the Quantum Circuit and a target quantum state $|\phi\rangle$, this opens a fundamental question in the theory of quantum mechanics about the feasibility of defining a distance metric between quantum states.
+
+We compared different metrics implementing different optimization routines in __Qiskit__ and __Pennylane__ which are open-source frameworks for Quantum Computing.
+
+Go to the (Jupyter Notebook)[url ndbviewer] with my solution rendered with a nice visualization.

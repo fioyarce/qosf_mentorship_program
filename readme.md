@@ -13,7 +13,7 @@ __Official description:__ I'm a Broccoli, excellent for health but I don't attra
 ### How can we know that two quantum states are close?
 This task inspired me to propose a project that can be end in a blog post about the different metrics out there for measuring the _closeness_ between two quantum states. 
 
-Since this task is about about finding the optimal parameters of a Quantum Circuit in order to optimize a _distance_ between the output state of the Quantum Circuit and a target quantum state, this opens a fundamental question in the theory of quantum mechanics about the feasibility of defining a distance metric between quantum states.
+Since this task is about about finding the optimal parameters of a Quantum Circuit in order to optimize a _distance_ between the output state of the Quantum Circuit and a target quantum state, this opens a fundamental question in the theory of quantum mechanics about the feasibility of defining a measurable a distance metric between quantum states.
 
 We compared different metrics implementing different optimization routines in __Qiskit__ and __Pennylane__ which are open-source frameworks for Quantum Computing.
 

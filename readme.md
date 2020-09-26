@@ -17,4 +17,4 @@ Since this task is about about finding the optimal parameters of a Quantum Circu
 
 We compared different metrics implementing different optimization routines in __Qiskit__ and __Pennylane__ which are open-source frameworks for Quantum Computing.
 
-Go to the (Jupyter Notebook)[url ndbviewer] with my solution rendered with a nice visualization.
+Go to the (Jupyter Notebook)[https://nbviewer.jupyter.org/github/fioyarce/qosf_mentorship_program/blob/master/Task%201/Task%201%20-%20Solution.ipynb] with my solution rendered with a nice visualization.
